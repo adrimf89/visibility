@@ -1,14 +1,10 @@
 # Algoritmo de visibilidad
 
-### Execute
+### Ejecución
 
-With maven (version 3.6) and java (version 8) installed:
+Con Maven (versión 3.6) i Java (versión 8) instalados:
 
     mvn spring-boot:run
-
-### Tests
-
-The project contains two tests classes: One for unit tests and another for integration test
 
 ### Estructuras de datos utilizadas en el algoritmo
 
